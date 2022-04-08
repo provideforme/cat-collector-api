@@ -27,7 +27,7 @@ Use the GitHub CLI to create a new project repository on GitHub:
 gh repo create <name-of-your-app-here>
 ```
 
-# Getting Started
+# Getting Started 
 
 Create a new virtual environment for your project. The dependencies involved in this configuration of Flask (Flask API) are a bit different, so you’ll want a fresh start with this environment. 
 
